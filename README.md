@@ -108,14 +108,14 @@ pip install -r requirements.txt
 
 ## Results
 
-Tree-based models outperform linear models
-Flight prices show strong seasonal and weekday patterns
-Airline and route significantly impact price
-Log-transformed targets improve predictive stability
+- Tree-based models outperform linear models
+- Flight prices show strong seasonal and weekday patterns
+- Airline and route significantly impact price
+- Log-transformed targets improve predictive stability
 
 ## Future Improvements
 
-Add real-world scraped data
-Include more routes and airlines
-Hyperparameter tuning
-Deploy as a web app (Streamlit / FastAPI)
+- Add real-world scraped data
+- Include more routes and airlines
+- Hyperparameter tuning
+- Deploy as a web app (Streamlit / FastAPI)
