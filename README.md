@@ -8,7 +8,7 @@ The project demonstrates the **full machine learning lifecycle**, with particula
 
 ## Project Objectives
 
-- Analyze historical flight price patterns
+- Analyze sample flight price patterns
 - Identify key factors influencing ticket prices
 - Handle missing values and injected anomalies
 - Engineer meaningful time-based and categorical features
