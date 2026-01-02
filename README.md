@@ -95,33 +95,11 @@ Predictions are converted back to original price scale for reporting and visuali
 
 ---
 
-## Project Structure
-flight-price-prediction/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ ├── 03_baseline_linear_regression.ipynb
-│ ├── 04_model_comparison.ipynb
-│ └── 05_strategy.ipynb
-│
-├── models/
-│ ├── final_model.joblib
-│ └── final_model_metadata.joblib
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 ## How to Run 
 
 1. Clone the repository
 bash
-   git clone https://github.com/jjianhhao/flight-price-prediction.git
+   git clone https://github.com/jjianhhao/Flight-Price-Predictor.git
 
 2. Install dependencies
 pip install -r requirements.txt
